@@ -1,2 +1,2 @@
 # contao-accessibility
-Accessibility improvements for Contao (4.4 LTS) CMS templates.
+Accessibility improvements for [Contao](https://contao.org) (4.4 LTS) CMS templates.
